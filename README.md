@@ -8,24 +8,24 @@ _A desire to understand the "Why" behind the decisions people make has led me fr
 
 **Director, Product and Growth Strategy** @ [Luminary Media](https://luminarypodcasts.com/) 
 _(November 2020 - Present)_
-* Sole Product Designer with responsibility of updating and maintaining app and web experience
-* Leveraged web and product analytics (Google Analytics and Amplitude) to derive customer insights and design updated check out experience for Web, IOS and Android.
+* Sole Product Designer with responsibility for updating and maintaining app and web experiences
+* Leveraged web and product analytics (Google Analytics and Amplitude) to derive customer insights and design updated check-out experience for Web, IOS and, Android.
 * Designed marketing and organic social assets.
 * Lead in-house paid media program.  
     
 **Freelance Web Designer** @ Catchafire  
 _(October 2020 - Present)_
 * Consulted with non-profit corporations to provide digital design solutions
-leveraging Research, Information Architecture, Visual Design and Prototyping.
+leveraging Research, Information Architecture, Visual Design, and Prototyping.
   
 **Growth Strategy Manager** @ [Luminary Media](https://luminarypodcasts.com/)   
 _(October 2019 - November 2020)_
+* Led ideation, market research, and product scoping for creative and website design
+improvements resulting in a 75% increase in customer conversion rate.
+(3rd-party sign-in, improved web CTA placement, optimized checkout experience).  
 * Overhauled internal marketing tech stack, mapping marketing metrics to app events
 to create new metrics for measuring ad effectiveness and lifetime value.
 * Executed in-house transition of social and search advertising channels.
-* Led ideation, market research and product scoping for creative and website design
-improvements resulting in a 75% increase in customer conversion rate.
-(3rd-party sign-in, improved web CTA placement, optimized checkout experience).  
   
 **Client Solutions Manager** @ Facebook  
 _(July 2017 - September 2019)_
@@ -34,7 +34,7 @@ to influence brand perception and drive business outcomes for advertisers.
 * Partnered with Creative, Data and Product teams to test new products (e.g.
 Augmented Reality Filters, Facebook Watch, and Store Visit Ads).
 * Selected to serve as a Scaled Solution Subject Matter Expert, focused on creating
-internal products and workflows to increase efficiency of scales team.
+internal products and workflows to increase efficiency of sales team.
 * Created and presented business reviews and strategy recommendations to C-Level
 clients and agency stakeholders.  
   
@@ -65,7 +65,7 @@ International Exchange, _Spring 2016_
 ## Affiliations
 
 **Interaction Design Foundation**
-* Leveraged IDF courses for supplemental learning on subjects such as Design Thinking, UI Patterns and User Research
+* Leveraged IDF courses for supplemental learning on subjects such as Design Thinking, UI Patterns, and User Research
 
 **SEO High School Mentor**
 * College admissions mentors for NYC high school students
