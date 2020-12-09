@@ -1,37 +1,65 @@
-## Welcome to GitHub Pages
+# Keelan Miskell
 
-You can use the [editor on GitHub](https://github.com/keelograms/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_A desire to understand the "Why" behind the decisions people make has led me from Economics and Marketing to Product Design_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](mailto:keelan.miskell@gmail.com) | [Portfolio](https://www.keelanmiskell.com/) | [LinkedIn](https://www.linkedin.com/in/keelan-miskell/) | [Dribble](https://dribbble.com/)
 
-### Markdown
+### Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Director, Product and Growth Strategy** @ [Luminary Media](https://luminarypodcasts.com/) 
+_(November 2020 - Present)_
+* Sole Product Designer with responsiblity of updating and maitaining app and web experience
+* Leveraged web and product analytics (Google Analytics and Amplitude) to derive customer insights and design updated check out experience for Web, IOS and Android.
+* Designed marketing and organic social assets
+* Lead in-house paid media program
 
-```markdown
-Syntax highlighted code block
+  
+**Freelance Web Designer** @ Catchafire  
+_(October 2020 - Present)_
+* Consulted with non-profit corporations to provide digital design solutions,
+leveraging Research, Information Architecture, Visual Design and Prototyping.
 
-# Header 1
-## Header 2
-### Header 3
+**Growth Strategy Manager** @ [Luminary Media](https://luminarypodcasts.com/)   
+_(October 2019 - November 2020)_
+* Overhauled internal marketing tech stack, mapping marketing metrics to app events
+to create new metrics for measuring ad effectiveness and lifetime value.
+* Executed in-house transition of social and search advertising channels.
+* Led ideation, market research and product scoping for creative and website design
+improvements resulting in a 75% increase in customer conversion rate.
+(3rd-party sign-in, improved web CTA placement, optimized checkout experience)
 
-- Bulleted
-- List
+**Client Solutions Manager** @ Facebook  
+_(July 2017 - September 2019)_
+* Managed +$100M ad revenue across Tech & Telecom Industry, developing solutions
+to influence brand perception and drive business outcomes for advertisers.
+* Partnered with Creative, Data and Product teams to test new products (e.g.
+Augmented Reality Filters, Facebook Watch, and Store Visit Ads)
+* Selected to serve as a Scaled Solution Subject Matter Expert, focused on creating
+internal products and workflows to increase efficiency of scales team.
+* Created and presented business reviews and strategy recommendations to C-Level
+clients and agency stakeholders.
 
-1. Numbered
-2. List
+**Client Solutions Manager Intern** @ Facebook  
+_(May 2016-August 2016)_
+* Queried four years of historical brand effect surveys and identified trends to develop
+an advertiser creative best practice guide for OEMs.
+* Worked with telecommunications partners to develop customer retention plans
+leveraging Facebook advertising solutions.
+  
+    
+### Education
 
-**Bold** and _Italic_ and `Code` text
+**Designlab**  
+UI Design & UX: Interaction Design Certificate, Spring 2020
 
-[Link](url) and ![Image](src)
-```
+**University of Pennsylvania**  
+Bachelors of Arts, Economics & Urban Studies _Spring 2017_
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Chinese University of Hong Kong**  
+International Exchange _Spring 2016_
 
-### Jekyll Themes
+### Skills
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/keelograms/cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**General**: A/B Testing, Data Analysis, Design Thinking, Digital Marketing, Market Research, Project Management, Prototyping, Wireframing
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Technical**: After Effects, Figma, HTML/CSS, Invision, Google Analytics, Photoshop, Sketch, Shopify, SQL, Webflow
