@@ -16,7 +16,7 @@ _(November 2020 - Present)_
   
 **Freelance Web Designer** @ Catchafire  
 _(October 2020 - Present)_
-* Consulted with non-profit corporations to provide digital design solutions,
+* Consulted with non-profit corporations to provide digital design solutions
 leveraging Research, Information Architecture, Visual Design and Prototyping.
 
 **Growth Strategy Manager** @ [Luminary Media](https://luminarypodcasts.com/)   
