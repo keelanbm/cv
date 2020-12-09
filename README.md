@@ -2,7 +2,7 @@
 
 _A desire to understand the "Why" behind the decisions people make has led me from Economics and Marketing to Product Design_
 
-[Email](mailto:keelan.miskell@gmail.com) | [Portfolio](https://www.keelanmiskell.com/) | [LinkedIn](https://www.linkedin.com/in/keelan-miskell/) | [Dribble](https://dribbble.com/)
+[Email](mailto:keelan.miskell@gmail.com) | [Portfolio](https://www.keelanmiskell.com/) | [LinkedIn](https://www.linkedin.com/in/keelan-miskell/) | [Dribble](https://dribbble.com/) | [Twitter](https://twitter.com/keelanbm)
 
 ### Experience
 
