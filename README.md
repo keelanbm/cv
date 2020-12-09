@@ -8,7 +8,7 @@ _A desire to understand the "Why" behind the decisions people make has led me fr
 
 **Director, Product and Growth Strategy** @ [Luminary Media](https://luminarypodcasts.com/) 
 _(November 2020 - Present)_
-* Sole Product Designer with responsiblity of updating and maitaining app and web experience
+* Sole Product Designer with responsibility of updating and maintaining app and web experience
 * Leveraged web and product analytics (Google Analytics and Amplitude) to derive customer insights and design updated check out experience for Web, IOS and Android.
 * Designed marketing and organic social assets
 * Lead in-house paid media program
@@ -63,3 +63,14 @@ International Exchange _Spring 2016_
 **General**: A/B Testing, Data Analysis, Design Thinking, Digital Marketing, Market Research, Project Management, Prototyping, Wireframing
 
 **Technical**: After Effects, Figma, HTML/CSS, Invision, Google Analytics, Photoshop, Sketch, Shopify, SQL, Webflow
+
+### Affiliations
+
+**Interaction Design Foundation**
+* Leveraged IDF courses for supplemental learning on subjects such as Design Thinking, UI Patterns and User Research
+
+**SEO High School Mentor**
+* College admissions mentors for NYC high school students
+
+**United Way Marketing Committee**
+* Assisted United Way NYC chapter with marketing and recruiting efforts
