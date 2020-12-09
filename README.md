@@ -8,7 +8,7 @@ _A desire to understand the "Why" behind the decisions people make has led me fr
 
 **Director, Product and Growth Strategy** @ [Luminary Media](https://luminarypodcasts.com/) 
 _(November 2020 - Present)_
-* Sole Product Designer with responsibility for updating and maintaining app and web experiences
+* Sole Product Designer responsible for updating and maintaining app and web experiences
 * Leveraged web and product analytics (Google Analytics and Amplitude) to derive customer insights and design updated check-out experience for Web, IOS and, Android.
 * Designed marketing and organic social assets.
 * Lead in-house paid media program.  
